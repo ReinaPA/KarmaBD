@@ -1,23 +1,23 @@
 <a href="https://moodlemupes.upv.es/course/view.php?id=170" target="_blank">Enllaç</a> al curs de mooodle de la UPV
 
-<a href="https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/1.Cursos%20disponibles.png" target="_blank">Pàgina principal</a>
+<a href="https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/1.Cursos%20disponibles.png" target="_blank">Imatge de la pàgina principal</a>
 
-<a href="Secció General - 1
+<a href="https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/02.Curs%20BdB.png" target="_blank">Imatge de la secció General - 1</a>
 
-<a href="Secció General - 2
+<a href="" target="_blank">Imatge de la secció General - 2</a>
 
-<a href="Secció General - 3
+<a href="" target="_blank">Imatge de la secció General - 3</a>
 
-<a href="Secció PROJECTE
+<a href="" target="_blank">Imatge de la secció PROJECTE</a>
 
-<a href="Secció UP1
+<a href="" target="_blank">Imatge de la secció UP1</a>
 
-<a href="Secció UP2
+<a href="" target="_blank">Imatge de la secció UP2</a>
 
-<a href="Secció UP3
+<a href="" target="_blank">Imatge de la secció UP3</a>
 
-<a href="Secció UP4 - Part 1
+<a href="" target="_blank">Imatge de la secció UP4 - Part 1</a>
 
-<a href="Secció UP4 - Part 2
+<a href="" target="_blank">Imatge</a> de la secció UP4 - Part 2
 
-<a href="Secció UP4 - Part 3
+<a href="" target="_blank">Imatge</a> de la secció UP4 - Part 3

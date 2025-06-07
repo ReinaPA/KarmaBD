@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/01.Cursos%20disponibles.png" target="_blank">Imatge de la pàgina principal</a>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/KarmaBD/blob/main/moodle/imatges/02.Curs%20BdB.png"><img src="/KarmaBD/blob/main/moodle/imatges/02.Curs%20BdB.png" alt="Imatge de la secció General - 1" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href=""https://github.com/KarmaBD/blob/main/moodle/imatges/02.Curs%20BdB.png"><img src=""https://github.com/KarmaBD/blob/main/moodle/imatges/02.Curs%20BdB.png" alt="Imatge de la secció General - 1" style="max-width: 100%;"></a></p>
 
 <a href="" target="_blank">Imatge de la secció General - 2</a>
 

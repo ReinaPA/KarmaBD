@@ -1,6 +1,6 @@
 <a href="https://moodlemupes.upv.es/course/view.php?id=170" target="_blank">Enllaç</a> al curs de mooodle de la UPV
 
-<a href="https://github.com/ReinaPA/KarmaBD/tree/main/moodle/imatges/1.Cursos disponibles.png" " target="_blank">Pàgina principal</a>
+<a href="https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/1.Cursos%20disponibles.png" target="_blank">Pàgina principal</a>
 
 <a href="Secció General - 1
 

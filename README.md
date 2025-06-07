@@ -5,6 +5,6 @@ Creació de BD per al projecte de Karma
 
 Enllaç a la presentació del recurs per a l'alumnat de BdB del mòdul de DAW
 
-Enllaç al curs de moodle de la UPV
+<a href="https://moodlemupes.upv.es/course/view.php?id=170" target="_blank">Enllaç</a> al curs de moodle de la UPV
 
 Enllaç a la Excel per a fer l'avaluació

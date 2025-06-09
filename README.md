@@ -15,3 +15,5 @@ Enllaç a la <a href="https://github.com/ReinaPA/KarmaBD/tree/main/moodle" targe
 Enllaç a la <a href="https://github.com/ReinaPA/KarmaBD/blob/main/Avaluacio/Plantilla%20avaluaci%C3%B3%20x%20grup%20BBDD.xlsx" target="_blank"> Excel</a> per a fer l'avaluació
 
 Enllaç a la presentació en <a href="https://www.canva.com/design/DAGp2Mwp-9w/laLS-ZxqxcdOcGI_2wZQ6w/edit?utm_content=DAGp2Mwp-9w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">canva</a> del projecte Karma per a l'alumnat
+
+Enllaç a la <a href="https://bbdd.codeandcoke.com/apuntes:diseno" target="_blank">teoria</a> en la que m'he basat per fer el PowerPoint

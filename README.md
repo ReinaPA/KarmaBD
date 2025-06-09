@@ -6,7 +6,7 @@ Creació de BD per al projecte de Karma
 
 <a href="https://www.canva.com/design/DAGoMdWtkXo/JVEK9v9yRiaw9XtaEJFWcA/view?utm_content=DAGoMdWtkXo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e0cdb44bb" target="_blank">Enllaç</a> a la presentació de l'assignatura Plataformes de formació online en tecnologia i la informàtica
 
-<a href="">Enllaç</a>a la presentació per a l'alumnat de la unitat 4
+<a href="https://github.com/ReinaPA/KarmaBD/blob/main/recursos/UP04%20Creaci%C3%B3%20de%20Bases%20de%20Dades.pdf">Enllaç</a>a la presentació per a l'alumnat de la unitat 4
 
 <a href="https://github.com/ReinaPA/KarmaBD/tree/main/moodle" target="_blank">Enllaç</a> a la carpeta amb els recursos de moodle
 

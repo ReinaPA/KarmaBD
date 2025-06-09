@@ -30,6 +30,6 @@ Enllaç al curs de <a href="https://moodlemupes.upv.es/course/view.php?id=170" t
 
 <a href="https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/15.Llibre_avaluacio_1.png" target="_blank">Imatge</a> de la configuració d'avaluació - 1
 
-<a href="https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/16.Llibre_avaluacio_1.png" target="_blank">Imatge</a> de la configuració d'avaluació - 2
+<a href="https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/16.Llibre_avaluacio_2.png" target="_blank">Imatge</a> de la configuració d'avaluació - 2
 
-<a href="https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/17.Llibre_avaluacio_1.png" target="_blank">Imatge</a> de la configuració d'avaluació - 3
+<a href="https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/17.Llibre_avaluacio_3.png" target="_blank">Imatge</a> de la configuració d'avaluació - 3

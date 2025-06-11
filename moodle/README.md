@@ -13,11 +13,15 @@ Aquest document recull els enllaços i captures de pantalla del curs Moodle de l
 ## 🖼️ Captures de pantalla del curs
 
 ### 📂 Pàgina principal
-- ![Cursos disponibles](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/01.Cursos%20disponibles.png)
-- ![Pàgina principal del curs](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/02.Curs%20BdB.png)
+ ![Cursos disponibles](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/01.Cursos%20disponibles.png)
+ ![Pàgina principal del curs](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/02.Curs%20BdB.png)
 
 ### 📑 Seccions del curs
-- **General**
+ **General**
+  ![General 1] (https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/03.General_1.png)
+  ![General 2] (https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/04.General_2.png)
+  ![General 3] (https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/05.General_3.png)
+  
   - General - 1
   - General - 2
   - [General - 3](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/05.General_[UP2](https://github.com/ReinaPA/KarmaBD/blob/main/minaPA/KarmaBD/blob/main/moodle/blob/main/moodle/imatges/11.UP4_2/imatges/12.UP4_aBD/blob/main/moodle/imatges/main/moodle/imatges/14.UP4_exameninaPA/KarmaBD/blob/main/moodle/imatges/15.LlibrmaBD/blob/main/moodle/ comprensió del curs Moodle associat al projecte KarmaBD.*

@@ -1,3 +1,32 @@
+# 🌐 Moodle del Projecte KarmaBD
+
+Aquest document recull els enllaços i captures de pantalla del curs Moodle de la UPV relacionat amb el projecte **KarmaBD**.
+
+---
+
+## 📘 Accés al curs
+
+🔗 [Accésal curs Moodle de la UPV
+
+---
+
+## 🖼️ Captures de pantalla del curs
+
+### 📂 Pàgina principal
+- ![Cursos disponibles](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/01.Cursos%20disponibles.png)
+- ![Pàgina principal del curs](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/02.Curs%20BdB.png)
+
+### 📑 Seccions del curs
+- **General**
+  - General - 1
+  - General - 2
+  - [General - 3](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/05.General_[UP2](https://github.com/ReinaPA/KarmaBD/blob/main/minaPA/KarmaBD/blob/main/moodle/blob/main/moodle/imatges/11.UP4_2/imatges/12.UP4_aBD/blob/main/moodle/imatges/main/moodle/imatges/14.UP4_exameninaPA/KarmaBD/blob/main/moodle/imatges/15.LlibrmaBD/blob/main/moodle/ comprensió del curs Moodle associat al projecte KarmaBD.*
+
+
+
+
+
+
 Enllaç al curs de <a href="https://moodlemupes.upv.es/course/view.php?id=170" target="_blank">mooodle</a> de la UPV
 
 <a href="https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/01.Cursos%20disponibles.png" target="_blank">Imatge</a> de la pàgina principal de mooodle

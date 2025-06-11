@@ -17,3 +17,7 @@ Enllaç a la <a href="https://github.com/ReinaPA/KarmaBD/blob/main/Avaluacio/Pla
 Enllaç a la presentació en <a href="https://www.canva.com/design/DAGp2Mwp-9w/laLS-ZxqxcdOcGI_2wZQ6w/edit?utm_content=DAGp2Mwp-9w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">canva</a> del projecte Karma per a l'alumnat
 
 Enllaç a la <a href="https://bbdd.codeandcoke.com/apuntes:diseno" target="_blank">teoria</a> en la que m'he basat per fer el PowerPoint
+
+<a href="" target="_blank">Requisits</a> del projecte Karma
+
+<a href="" target="_blank">Model</a> del projecte Karma

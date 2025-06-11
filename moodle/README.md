@@ -17,10 +17,10 @@ Aquest document recull els enllaços i captures de pantalla del curs Moodle de l
  ![Pàgina principal del curs](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/02.Curs%20BdB.png)
 
 ### 📑 Seccions del curs
- **General**
-  ![General 1] (https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/03.General_1.png)
-  ![General 2] (https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/04.General_2.png)
-  ![General 3] (https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/05.General_3.png)
+  **General**
+  ![General 1](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/03.General_1.png)
+  ![General 2](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/04.General_2.png)
+  ![General 3](https://github.com/ReinaPA/KarmaBD/blob/main/moodle/imatges/05.General_3.png)
   
   - General - 1
   - General - 2
